@@ -31,6 +31,7 @@ I am Max Loh, a Hong Kong based front-end developer.
   - JSP
 - Design and implement databases
   - MySQL
+  - MySQL Workbench
   - PostgreSQL
   - MongoDB
   - Apache Derby
