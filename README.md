@@ -61,7 +61,7 @@ I am Max Loh, a Hong Kong based front-end developer.
 
 ## Things I wanted to learn in the future 🤩
 
-- Go
-- Kotlin
-- Flutter and Dart
+- Advanced React
 - Vue
+- Flutter and Dart
+- Server side development with Go/Kotlin
