@@ -34,9 +34,9 @@ I am Max Loh, a Hong Kong based front-end developer.
   - MongoDB
   - Apache Derby
 
-### Programming Language I know
+### Programming Language
 
-- JavaScript, HTML, CSS, JSX, SCSS
+- JavaScript, HTML, CSS
 - Java, C, basic PHP
 - SQL
 
@@ -57,3 +57,4 @@ I am Max Loh, a Hong Kong based front-end developer.
 - Go
 - Kotlin
 - Flutter and Dart
+- Vue
