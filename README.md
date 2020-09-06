@@ -1,16 +1,59 @@
-### Hi there 👋
+Hi there. 👋
 
-<!--
-**maxloh/maxloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Max Loh, a Hong Kong based front-end developer.
 
-Here are some ideas to get you started:
+## My skill set 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front end
+
+- Front end development
+  - Basic React
+  - Webpack
+  - Babel
+  - Progressive Web App
+  - SCSS
+  - Bootstrap
+  - jQuery
+- Basic Android App development
+- Basic user interface design (Android App and Web App)
+
+### Back end
+
+- Back end development with Node.js
+  - Express
+  - MangoDB
+  - Building REST API
+- Back end development with Java
+  - Spring MVC
+  - Spring Security
+  - Spring Data JPA
+  - JSP
+- Design and implement databases
+  - MySQL
+  - PostgreSQL
+  - MongoDB
+  - Apache Derby
+
+### Programming Language I know
+
+- JavaScript, HTML, CSS, JSX, SCSS
+- Java, C, basic PHP
+- SQL
+
+### Other skills
+
+- Git
+  - Basic CLI
+  - Rebase
+  - Git flow
+- Bash, CMD, PowerShell
+- Manging and publishing NPM packages
+- Dveloping Chrome extensions
+- Basic concepts on AI
+- Basic concepts on data mining
+
+## Things I wanted to learn 🤩
+
+- Go
+- Kotlin
+- Flutter and Dart
