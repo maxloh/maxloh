@@ -10,8 +10,8 @@ I am Max Loh, a Hong Kong based front-end developer.
   - Basic React
   - Webpack
   - Babel
-  - Progressive Web App
   - SCSS
+  - Progressive Web App
 - Traditional Web Application
   - Bootstrap
   - jQuery
