@@ -50,7 +50,10 @@ I am Max Loh, a Hong Kong based front-end developer.
   - Git flow
   - Semantic Versioning
   - Conventional Commit messages
-- Different shells (Bash, CMD, PowerShell)
+- OS
+  - Windows
+  - Ubuntu
+  - Different shells (Bash, CMD, PowerShell)
 - Manging and publishing NPM packages
 - Dveloping Chrome extensions
 - Basic concepts on AI
