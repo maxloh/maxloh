@@ -6,35 +6,16 @@ I am Max Loh, a Hong Kong based front-end developer.
 
 ### Front end
 
-- Single Page Application
-  - Basic React
-  - Webpack
-  - Babel
-  - SCSS
-  - Progressive Web App
-- Traditional Web Application
-  - Bootstrap
-  - jQuery
+- Single Page Application (Basic React, Webpack, Babel, SCSS, Progressive Web App)
+- Traditional Web Application (Bootstrap, jQuery)
 - Basic Android App development
-- Basic user interface design (Android App and Web App)
+- Basic user interface design (Material Design, Responsive web design)
 
 ### Back end
 
-- Back end development with Node.js
-  - Express
-  - MangoDB
-  - Building REST API
-- Back end development with Java
-  - Spring MVC
-  - Spring Security
-  - Spring Data JPA
-  - JSP
-- Design and implement databases
-  - MySQL
-  - MySQL Workbench
-  - PostgreSQL
-  - MongoDB
-  - Apache Derby
+- Back end development with Node.js (Express, MangoDB, Building REST API)
+- Back end development with Java (Spring MVC, Spring Security, Spring Data JPA, JSP)
+- Design and implement databases (MySQL, PostgreSQL, MongoDB, Apache Derby)
 
 ### Programming Language
 
@@ -44,17 +25,9 @@ I am Max Loh, a Hong Kong based front-end developer.
 
 ### Other skills
 
-- Git
-  - Basic CLI
-  - Rebase
-- Project management
-  - Git flow
-  - Semantic Versioning
-  - Conventional Commit messages
-- OS
-  - Windows
-  - Ubuntu
-  - Different shells (Bash, CMD, PowerShell)
+- Git, Basic CLI, Rebase
+- Project management (Git flow, Semantic Versioning, Conventional Commit messages)
+- Different shells (Bash, CMD, PowerShell)
 - Manging and publishing NPM packages
 - Dveloping Chrome extensions
 - Basic concepts on AI
