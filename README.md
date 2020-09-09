@@ -9,7 +9,7 @@ I am Max Loh, a Hong Kong based front-end developer.
 - Single Page Application (Basic React, Webpack, Babel, SCSS, Progressive Web App)
 - Traditional Web Application (Bootstrap, jQuery)
 - Basic Android App development
-- Basic user interface design (Material Design, Responsive web design)
+- Basic user interface design (Material Design, responsive web design)
 
 ### Back end
 
@@ -25,7 +25,7 @@ I am Max Loh, a Hong Kong based front-end developer.
 
 ### Other skills
 
-- Git, Basic CLI, Rebase
+- Git (Basic CLI, rebase)
 - Project management (Git flow, Semantic Versioning, Conventional Commit messages)
 - Different shells (Bash, CMD, PowerShell)
 - Manging and publishing NPM packages
