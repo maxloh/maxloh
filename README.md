@@ -28,7 +28,7 @@ I am Max Loh, a Hong Kong based front-end developer.
 - Git (Basic CLI, rebase)
 - Project management (Git flow, Semantic Versioning, Conventional Commit messages)
 - Different shells (Bash, CMD, PowerShell)
-- Manging and publishing NPM packages
+- Managing and publishing NPM packages
 - Dveloping Chrome extensions
 - Basic concepts on AI
 - Basic concepts on data mining
