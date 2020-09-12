@@ -14,7 +14,7 @@ I am Max Loh, a Hong Kong based front-end developer.
 ### Back end
 
 - Back end development with Node.js (Express, MangoDB, Building REST API)
-- Back end development with Java (Spring MVC, Spring Security, Spring Data JPA, JSP)
+- Back end development with Java (Spring MVC, Spring Data JPA, Spring Security, JSP)
 - Design and implement databases (MySQL, PostgreSQL, MongoDB, Apache Derby)
 
 ### Programming Language
