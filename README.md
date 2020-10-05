@@ -21,8 +21,6 @@ I am Max Loh, a Hong Kong based front-end developer.
 
 ### Programming Language
 
-
-
 - JavaScript, HTML, CSS, basic PHP
 - Java, C
 - SQL
