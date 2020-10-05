@@ -2,6 +2,8 @@ Hi there. 👋
 
 I am Max Loh, a Hong Kong based front-end developer.
 
+![Max Loh's github stats](https://github-readme-stats.vercel.app/api?username=maxloh&show_icons=true)
+
 ## My skill set 🛠️
 
 ### Front end
