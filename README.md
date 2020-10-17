@@ -2,7 +2,16 @@ Hi there. 👋
 
 I am Max Loh, a Hong Kong based front-end developer.
 
-![Max Loh's github stats](https://github-readme-stats.vercel.app/api?username=maxloh&show_icons=true)
+<table>
+  <tr>
+    <td>
+      <img src ="https://github-readme-stats.vercel.app/api?username=maxloh&count_private=true&show_icons=true&hide_border=true">
+    </td>
+    <td>
+      <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=maxloh&count_private=true&show_icons=true&hide_border=true&layout=compact">
+    </td>
+  </tr>
+</table>
 
 ## My skill set 🛠️
 
@@ -22,9 +31,10 @@ I am Max Loh, a Hong Kong based front-end developer.
 
 ### Programming Language
 
-- JavaScript, HTML, CSS, basic PHP
+- JavaScript, HTML, CSS
 - Java, C
 - SQL
+- ~~Basic PHP~~ *I hate PHP :/*
 
 ### Other skills
 
