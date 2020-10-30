@@ -17,7 +17,7 @@ I am Max Loh, a Hong Kong based front-end developer.
 
 ### Front end
 
-- Single Page Application (Basic React, Progressive Web App)
+- Single Page Application (Basic to intermediate React, Basic Vue, Progressive Web App)
 - Traditional Web Application (Bootstrap, jQuery)
 - Basic Android App development
 - Basic UI/UX design (Responsive web design, Material Design)
