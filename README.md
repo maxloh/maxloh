@@ -1,6 +1,6 @@
-Hi there. 👋
+<samp>Hi there. 👋</samp>
 
-I am Max Loh, a Hong Kong based front-end developer.
+<samp>I am Max Loh, a Hong Kong based front-end developer.</samp>
 
 <table>
   <tr>
