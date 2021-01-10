@@ -1,6 +1,6 @@
 <samp>Hi there. 👋</samp>
 
-<samp>I am Max Loh, a Hong Kong based front-end developer.</samp>
+I am Max Loh, a Hong Kong based front-end developer.
 
 <table>
   <tr>
@@ -19,22 +19,22 @@
 
 - Single Page Application (Basic to intermediate React, Basic Vue, Progressive Web App)
 - Traditional Web Application (Bootstrap, jQuery)
-- Basic Android App development
+- Basic Android App
 - Basic UI/UX design (Responsive web design, Material Design)
 - Tools involved in front end development (webpack, Babel, SCSS)
 
 ### Back end
 
-- Back end development with Node.js (Express, MangoDB, Building REST API)
-- Back end development with Java EE (Spring MVC, Spring Data JPA, Spring Security, Hibernate, JSP)
+- Node.js (Express, MangoDB, Building REST API)
+- Java EE (Spring MVC, Spring Data JPA, Spring Security, Hibernate, JSP)
+- Laravel
 - Design and implement databases (MySQL, PostgreSQL, MongoDB, Apache Derby)
 
 ### Programming Language
 
 - JavaScript, HTML, CSS
-- Java, C
+- Java, C, PHP
 - SQL
-- ~~Basic PHP~~ *I hate PHP :/*
 
 ### Other skills
 
