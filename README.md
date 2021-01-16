@@ -39,9 +39,3 @@ I am Max Loh, a Hong Kong based front-end developer.
 - Dveloping Chrome extensions
 - Basic concepts on AI
 - Basic concepts on data mining
-
-## Things I wanted to learn in the future 🤩
-
-- Vue
-- Flutter and Dart
-- Server side development with Go/Kotlin
