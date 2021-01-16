@@ -2,16 +2,7 @@
 
 I am Max Loh, a Hong Kong based front-end developer.
 
-<table>
-  <tr>
-    <td>
-      <img src ="https://github-readme-stats.vercel.app/api?username=maxloh&count_private=true&show_icons=true&hide_border=true">
-    </td>
-    <td>
-      <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=maxloh&count_private=true&show_icons=true&hide_border=true&layout=compact">
-    </td>
-  </tr>
-</table>
+<img src ="https://github-readme-stats.vercel.app/api?username=maxloh&count_private=true&show_icons=true&hide_border=true">
 
 ## My skill set 🛠️
 
