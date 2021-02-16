@@ -1,4 +1,4 @@
-<samp>Hi there. 👋 I am Max Loh.</samp>
+<samp>Hi there👋 I am Max Loh</samp>
 
 Ranked **#105** in [most active GitHub users in Hong Kong (unofficial list)](https://commits.top/hong_kong.html)
 
