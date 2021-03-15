@@ -20,8 +20,8 @@ I am Max Loh, a Hong Kong based front-end developer.
 - Frameworks/libraries
   - React (React Route, Redux, Nest.js)
   - Basic Vue
-  - Bootstrap, jQuery
   - Basic three.js
+  - Bootstrap, jQuery
 - Web API (Progressive Web App, canvas, shadow DOM)
 - Build toolchain (webpack, Babel, Terser, esbuild)
 - CSS preprocessor and technologies (SCSS, CSS modules)
