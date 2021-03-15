@@ -17,11 +17,13 @@ I am Max Loh, a Hong Kong based front-end developer.
 
 ### Front end
 
-- React (React Route, Context, Redux, Nest.js)
-- Basic Vue
-- Bootstrap, jQuery
+- Frameworks/libraries
+  - React (React Route, Redux, Nest.js)
+  - Basic Vue
+  - Bootstrap, jQuery
+  - Basic three.js
 - Web API (Progressive Web App, Canvas, Shadow DOM)
-- Build toolchain (webpack, Babel, Terser)
+- Build toolchain (webpack, Babel, Terser, esbuild)
 - CSS preprocessor and technologies (SCSS, CSS modules)
 - Basic Android App development
 - Basic UI/UX design (Responsive web design, Material Design)
@@ -32,6 +34,7 @@ I am Max Loh, a Hong Kong based front-end developer.
 - Java EE (Spring MVC, Spring Data JPA, Spring Security, Hibernate, JSP)
 - Laravel (Eloquent ORM)
 - Designing and implementing databases (MySQL, PostgreSQL, MongoDB, Apache Derby)
+- Basic docker
 
 ### Programming Language
 
@@ -54,3 +57,4 @@ I am Max Loh, a Hong Kong based front-end developer.
 - Vue
 - Flutter and Dart
 - Server side development with Go/Kotlin
+- Kubernetes
